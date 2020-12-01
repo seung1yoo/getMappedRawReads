@@ -1,0 +1,13 @@
+/data06/project/TBD200717_10391_TBI_RNAref_20201027/analysis/star/Set1_CM_I329T/Aligned.sortedByCoord.out.bam     Set1_CM_I329T
+/data06/project/TBD200717_10391_TBI_RNAref_20201027/analysis/star/Set1_CM_I588T-1/Aligned.sortedByCoord.out.bam   Set1_CM_I588T-1
+/data06/project/TBD200717_10391_TBI_RNAref_20201027/analysis/star/Set1_CM_I588T/Aligned.sortedByCoord.out.bam     Set1_CM_I588T
+/data06/project/TBD200717_10391_TBI_RNAref_20201027/analysis/star/Set1_CM_R160Q-1/Aligned.sortedByCoord.out.bam   Set1_CM_R160Q-1
+/data06/project/TBD200717_10391_TBI_RNAref_20201027/analysis/star/Set1_CM_R160Q/Aligned.sortedByCoord.out.bam     Set1_CM_R160Q
+/data06/project/TBD200717_10391_TBI_RNAref_20201027/analysis/star/Set1_CM_WT-1/Aligned.sortedByCoord.out.bam      Set1_CM_WT-1
+/data06/project/TBD200717_10391_TBI_RNAref_20201027/analysis/star/Set1_CM_WT/Aligned.sortedByCoord.out.bam        Set1_CM_WT
+/data06/project/TBD200717_10391_TBI_RNAref_20201027/analysis/star/Set2_CM_I329T/Aligned.sortedByCoord.out.bam     Set2_CM_I329T
+/data06/project/TBD200717_10391_TBI_RNAref_20201027/analysis/star/Set2_CM_I588T-1/Aligned.sortedByCoord.out.bam   Set2_CM_I588T-1
+/data06/project/TBD200717_10391_TBI_RNAref_20201027/analysis/star/Set2_CM_I588T/Aligned.sortedByCoord.out.bam     Set2_CM_I588T
+/data06/project/TBD200717_10391_TBI_RNAref_20201027/analysis/star/Set2_CM_R160Q-1/Aligned.sortedByCoord.out.bam   Set2_CM_R160Q-1
+/data06/project/TBD200717_10391_TBI_RNAref_20201027/analysis/star/Set2_CM_R160Q/Aligned.sortedByCoord.out.bam     Set2_CM_R160Q
+/data06/project/TBD200717_10391_TBI_RNAref_20201027/analysis/star/Set2_CM_WT/Aligned.sortedByCoord.out.bam        Set2_CM_WT
