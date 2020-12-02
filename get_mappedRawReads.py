@@ -47,8 +47,9 @@ class CreateConfig:
 class ExtractRawread:
     def __init__(self, args):
         self.target_dic = self.add_readList(args.readList)
-        self.extracter(args.in_fq_1, args.out_fq_1)
-        self.extracter(args.in_fq_2, args.out_fq_2)
+        #self.extracter(args.in_fq_1, args.out_fq_1)
+        #self.extracter(args.in_fq_2, args.out_fq_2)
+        self.extracter(args.in_fq, args.out_fq)
 
     def add_readList(self, fn):
         target_dic = dict()
@@ -83,11 +84,9 @@ if __name__=='__main__':
     subparser.add_argument('--workdir')
 
     subparser = subparsers.add_parser('extract_rawread')
-    subparser.add_argument('--in-fq-1', help='have to fq.gz')
-    subparser.add_argument('--in-fq-2', help='have to fq.gz')
+    subparser.add_argument('--in-fq', help='have to fq.gz')
     subparser.add_argument('--readList')
-    subparser.add_argument('--out-fq-1', help='have to fq.gz')
-    subparser.add_argument('--out-fq-2', help='have to fq.gz')
+    subparser.add_argument('--out-fq', help='have to fq.gz')
 
     args = parser.parse_args()
     main(args)
