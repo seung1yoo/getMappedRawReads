@@ -1,6 +1,7 @@
 
 workdir: /data06/project/TBD200717_10391_TBI_RNAref_20201027/202012011311_mappedRawReads
 
+
 samples:
   Set1_CM_I329T:
     fastq_1: /data06/project/TBD200717_10391_TBI_RNAref_20201027/rawdata/Sample_Set1_CM_I329T/Set1_CM_I329T_1.fq.gz
@@ -11,24 +12,24 @@ samples:
     fastq_2: /data06/project/TBD200717_10391_TBI_RNAref_20201027/rawdata/Sample_Set1_CM_I588T/Set1_CM_I588T_2.fq.gz
     inbam: /data06/project/TBD200717_10391_TBI_RNAref_20201027/analysis/star/Set1_CM_I588T/Aligned.sortedByCoord.out.bam
   Set1_CM_I588T-1:
-    fastq_1: /data06/project/TBD200717_10391_TBI_RNAref_20201027/rawdata/TBD200717_10759_20201130/Sample_Set1_CM_I588T-1/Set1_CM_I588T-1_1.fq.gz
-    fastq_2: /data06/project/TBD200717_10391_TBI_RNAref_20201027/rawdata/TBD200717_10759_20201130/Sample_Set1_CM_I588T-1/Set1_CM_I588T-1_2.fq.gz
+    fastq_1: /data06/project/TBD200717_10391_TBI_RNAref_20201027/rawdata/TBD200717_10759-10857_20201208/Sample_Set1_CM_I588T-1/Set1_CM_I588T-1_1.fq.gz
+    fastq_2: /data06/project/TBD200717_10391_TBI_RNAref_20201027/rawdata/TBD200717_10759-10857_20201208/Sample_Set1_CM_I588T-1/Set1_CM_I588T-1_2.fq.gz
     inbam: /data06/project/TBD200717_10391_TBI_RNAref_20201027/analysis/star/Set1_CM_I588T-1/Aligned.sortedByCoord.out.bam
   Set1_CM_R160Q:
     fastq_1: /data06/project/TBD200717_10391_TBI_RNAref_20201027/rawdata/Sample_Set1_CM_R160Q/Set1_CM_R160Q_1.fq.gz
     fastq_2: /data06/project/TBD200717_10391_TBI_RNAref_20201027/rawdata/Sample_Set1_CM_R160Q/Set1_CM_R160Q_2.fq.gz
     inbam: /data06/project/TBD200717_10391_TBI_RNAref_20201027/analysis/star/Set1_CM_R160Q/Aligned.sortedByCoord.out.bam
   Set1_CM_R160Q-1:
-    fastq_1: /data06/project/TBD200717_10391_TBI_RNAref_20201027/rawdata/TBD200717_10759_20201130/Sample_Set1_CM_R160Q-1/Set1_CM_R160Q-1_1.fq.gz
-    fastq_2: /data06/project/TBD200717_10391_TBI_RNAref_20201027/rawdata/TBD200717_10759_20201130/Sample_Set1_CM_R160Q-1/Set1_CM_R160Q-1_2.fq.gz
+    fastq_1: /data06/project/TBD200717_10391_TBI_RNAref_20201027/rawdata/TBD200717_10759-10857_20201208/Sample_Set1_CM_R160Q-1/Set1_CM_R160Q-1_1.fq.gz
+    fastq_2: /data06/project/TBD200717_10391_TBI_RNAref_20201027/rawdata/TBD200717_10759-10857_20201208/Sample_Set1_CM_R160Q-1/Set1_CM_R160Q-1_2.fq.gz
     inbam: /data06/project/TBD200717_10391_TBI_RNAref_20201027/analysis/star/Set1_CM_R160Q-1/Aligned.sortedByCoord.out.bam
   Set1_CM_WT:
     fastq_1: /data06/project/TBD200717_10391_TBI_RNAref_20201027/rawdata/Sample_Set1_CM_WT/Set1_CM_WT_1.fq.gz
     fastq_2: /data06/project/TBD200717_10391_TBI_RNAref_20201027/rawdata/Sample_Set1_CM_WT/Set1_CM_WT_2.fq.gz
     inbam: /data06/project/TBD200717_10391_TBI_RNAref_20201027/analysis/star/Set1_CM_WT/Aligned.sortedByCoord.out.bam
   Set1_CM_WT-1:
-    fastq_1: /data06/project/TBD200717_10391_TBI_RNAref_20201027/rawdata/TBD200717_10759_20201130/Sample_Set1_CM_WT-1/Set1_CM_WT-1_1.fq.gz
-    fastq_2: /data06/project/TBD200717_10391_TBI_RNAref_20201027/rawdata/TBD200717_10759_20201130/Sample_Set1_CM_WT-1/Set1_CM_WT-1_2.fq.gz
+    fastq_1: /data06/project/TBD200717_10391_TBI_RNAref_20201027/rawdata/TBD200717_10759-10857_20201208/Sample_Set1_CM_WT-1/Set1_CM_WT-1_1.fq.gz
+    fastq_2: /data06/project/TBD200717_10391_TBI_RNAref_20201027/rawdata/TBD200717_10759-10857_20201208/Sample_Set1_CM_WT-1/Set1_CM_WT-1_2.fq.gz
     inbam: /data06/project/TBD200717_10391_TBI_RNAref_20201027/analysis/star/Set1_CM_WT-1/Aligned.sortedByCoord.out.bam
   Set2_CM_I329T:
     fastq_1: /data06/project/TBD200717_10391_TBI_RNAref_20201027/rawdata/Sample_Set2_CM_I329T/Set2_CM_I329T_1.fq.gz
@@ -39,16 +40,16 @@ samples:
     fastq_2: /data06/project/TBD200717_10391_TBI_RNAref_20201027/rawdata/Sample_Set2_CM_I588T/Set2_CM_I588T_2.fq.gz
     inbam: /data06/project/TBD200717_10391_TBI_RNAref_20201027/analysis/star/Set2_CM_I588T/Aligned.sortedByCoord.out.bam
   Set2_CM_I588T-1:
-    fastq_1: /data06/project/TBD200717_10391_TBI_RNAref_20201027/rawdata/TBD200717_10759_20201130/Sample_Set2_CM_I588T-1/Set2_CM_I588T-1_1.fq.gz
-    fastq_2: /data06/project/TBD200717_10391_TBI_RNAref_20201027/rawdata/TBD200717_10759_20201130/Sample_Set2_CM_I588T-1/Set2_CM_I588T-1_2.fq.gz
+    fastq_1: /data06/project/TBD200717_10391_TBI_RNAref_20201027/rawdata/TBD200717_10759-10857_20201208/Sample_Set2_CM_I588T-1/Set2_CM_I588T-1_1.fq.gz
+    fastq_2: /data06/project/TBD200717_10391_TBI_RNAref_20201027/rawdata/TBD200717_10759-10857_20201208/Sample_Set2_CM_I588T-1/Set2_CM_I588T-1_2.fq.gz
     inbam: /data06/project/TBD200717_10391_TBI_RNAref_20201027/analysis/star/Set2_CM_I588T-1/Aligned.sortedByCoord.out.bam
   Set2_CM_R160Q:
     fastq_1: /data06/project/TBD200717_10391_TBI_RNAref_20201027/rawdata/Sample_Set2_CM_R160Q/Set2_CM_R160Q_1.fq.gz
     fastq_2: /data06/project/TBD200717_10391_TBI_RNAref_20201027/rawdata/Sample_Set2_CM_R160Q/Set2_CM_R160Q_2.fq.gz
     inbam: /data06/project/TBD200717_10391_TBI_RNAref_20201027/analysis/star/Set2_CM_R160Q/Aligned.sortedByCoord.out.bam
   Set2_CM_R160Q-1:
-    fastq_1: /data06/project/TBD200717_10391_TBI_RNAref_20201027/rawdata/TBD200717_10759_20201130/Sample_Set2_CM_R160Q-1/Set2_CM_R160Q-1_1.fq.gz
-    fastq_2: /data06/project/TBD200717_10391_TBI_RNAref_20201027/rawdata/TBD200717_10759_20201130/Sample_Set2_CM_R160Q-1/Set2_CM_R160Q-1_2.fq.gz
+    fastq_1: /data06/project/TBD200717_10391_TBI_RNAref_20201027/rawdata/TBD200717_10759-10857_20201208/Sample_Set2_CM_R160Q-1/Set2_CM_R160Q-1_1.fq.gz
+    fastq_2: /data06/project/TBD200717_10391_TBI_RNAref_20201027/rawdata/TBD200717_10759-10857_20201208/Sample_Set2_CM_R160Q-1/Set2_CM_R160Q-1_2.fq.gz
     inbam: /data06/project/TBD200717_10391_TBI_RNAref_20201027/analysis/star/Set2_CM_R160Q-1/Aligned.sortedByCoord.out.bam
   Set2_CM_WT:
     fastq_1: /data06/project/TBD200717_10391_TBI_RNAref_20201027/rawdata/Sample_Set2_CM_WT/Set2_CM_WT_1.fq.gz
